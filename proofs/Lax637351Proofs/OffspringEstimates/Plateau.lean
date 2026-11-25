@@ -1,0 +1,17 @@
+import Lax637351Proofs.OffspringEstimates.Dynamics
+import Lax637351Proofs.OffspringEstimates.Flatness
+import Lax637351Proofs.OffspringEstimates.FiniteChain
+import Lax637351Proofs.OffspringEstimates.ElementaryBounds
+
+namespace Lax637351Proofs.OffspringEstimates.Plateau
+
+open Lax637351Proofs.OffspringEstimates.Algorithm Lax637351Proofs.OffspringEstimates.Sampling Lax637351Proofs.OffspringEstimates.Dynamics
+open Lax637351Proofs.OffspringEstimates.Flatness Lax637351Proofs.OffspringEstimates.FiniteChain Lax637351Proofs.OffspringEstimates.ElementaryBounds
+open scoped BigOperators Classical ENNReal
+
+noncomputable section
+
+set_option backward.isDefEq.respectTransparency false
+
+end
+end Lax637351Proofs.OffspringEstimates.Plateau

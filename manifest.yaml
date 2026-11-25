@@ -1,0 +1,25 @@
+specVersion: "1"
+id: lax-637351
+leanVersion: "v4.33.0"
+mathlibVersion: "db584cd6d46c92f209a44c0f1c829460d327499d"
+title: 'Population Size versus Crossover Probability: Dichotomies for the
+  $(\mu+1)$ GA on $\mathrm{Jump}_k$'
+authors:
+  - name: "Timo Kötzing"
+    orcid: "0000-0002-1028-5228"
+  - name: "Christian Wallisch"
+    orcid: "0009-0007-7670-3721"
+  - name: "GPT 6.2 Sol"
+  - name: "Claude Opus 5.5"
+bibEntries:
+  - |
+    @article{JansenWegener2002,
+      author  = {Jansen, Thomas and Wegener, Ingo},
+      title   = {The Analysis of Evolutionary Algorithms---A Proof That Crossover Really Can Help},
+      journal = {Algorithmica},
+      volume  = {34},
+      number  = {1},
+      pages   = {47--66},
+      year    = {2002},
+      doi     = {10.1007/s00453-002-0940-2}
+    }

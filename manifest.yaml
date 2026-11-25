@@ -23,3 +23,6 @@ bibEntries:
       year    = {2002},
       doi     = {10.1007/s00453-002-0940-2}
     }
+issue:
+  repositoryId: 1320232165
+  number: 238
